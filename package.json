@@ -1,0 +1,15 @@
+{
+  "name": "asteroid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/sketch.js",
+  "scripts": {
+    "start": "http-server ./src -p 3000 --silent",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sf",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
